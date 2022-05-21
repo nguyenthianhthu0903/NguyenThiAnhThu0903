@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/55450530/137633160-ab649e38-cc02-404b-
 
 <p align="left"> <a href="https://twitter.com/thupvt10a2" target="blank"><img src="https://img.shields.io/twitter/follow/thupvt10a2?logo=twitter&style=for-the-badge" alt="thupvt10a2" /></a> </p>
 
-- 📫 How to reach me **thunus93@gmail.com**
+- 📫 How to reach me **nguyenthianhthuwork201@gmail.com**
 
 - ⚡ Fun fact **I think I am funny XD**
 
