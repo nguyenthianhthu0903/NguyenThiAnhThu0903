@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/55450530/137633160-ab649e38-cc02-404b-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nguyenthianhthu0903" alt="nguyenthianhthu0903" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/thupvt10a2" target="blank"><img src="https://img.shields.io/twitter/follow/thupvt10a2?logo=twitter&style=for-the-badge" alt="thupvt10a2" /></a> </p>
+
 
 - 📫 How to reach me **nguyenthianhthuwork201@gmail.com**
 
